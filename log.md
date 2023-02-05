@@ -6,7 +6,7 @@
 
 **Thoughts:** I'm struggling a bit with Material UI but I'll work on the style and responsiveness once I'm done with all the functionality. This wasn't too hard to do, I'm proud of how much progress I made in a day!
 
-**Link to work:** [Chipotle'd APP]((https://chipotled.netlify.app/))
+**Link to work:** [Chipotle'd APP](https://chipotled.netlify.app/)
 
 ### Day 2: February 1, 2023
 
@@ -14,7 +14,7 @@
 
 **Thoughts:** The freecodecamp questions are getting harder!! and I've learned that taking breaks helps me more than to try and force myself to study for crazy long hours. 
 
-**Link to work:** [Chipotle'd APP]((https://chipotled.netlify.app/))
+**Link to work:** [Chipotle'd APP](https://chipotled.netlify.app/)
 
 ### Day 3: February 2, 2023
 
@@ -22,4 +22,22 @@
 
 **Thoughts:** So happy that this has helped me to keep myslef motivated! I'm excited about finishing this freecodecamp unit to start working on their final projects :) I also think I'll continue with Chipotle'd tomorrow.
 
-**Link to work:** [freeCodeCamp Profile]((https://www.freecodecamp.org/JackiieM))
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/JackiieM)
+
+### Day 4: February 3, 2023
+
+**Today's Progress**: -  Completed 8 lessons of the Intermediate algorithm scripting module in the Javascript Algorithms and Data Structures course from #freeCodeCamp finally completed it!
+
+- Started solving the final projects! Currently 4/5
+
+**Thoughts:** These projects have been fun but so complex at times hahaha, I'm thinking about making a fron to host some of them later!
+
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/JackiieM)
+
+### Day 5: February 4, 2023
+
+**Today's Progress**: Still working on the Cash Register project of the Javascript Algorithms and Data Structures course from #freeCodeCamp 😅 almost there!
+
+**Thoughts:** WOW, this las project really is tough, I'll give it my all tomorrow! Hoping to finish it soon :)
+
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/JackiieM)
