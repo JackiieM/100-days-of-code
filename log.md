@@ -41,3 +41,22 @@
 **Thoughts:** WOW, this las project really is tough, I'll give it my all tomorrow! Hoping to finish it soon :)
 
 **Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/JackiieM)
+
+### Day 6: February 5, 2023
+
+**Today's Progress**: - Completed the Javascript Algorithms and Data Structures certification ✨ from freeCodeCamp
+
+- Started making a front to show some of the projects from the course :)
+
+**Thoughts:** So happy I managed to finish all the projects!!!
+
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/JackiieM)
+
+### Day 7: February 6, 2023
+
+**Today's Progress**: Continued working on making a webpage to showcase some of the projects from the freeCodeCamp course
+
+**Thoughts:** I wanted to try using something like bootstrap or material ui but I went back to regular css :' ) I need more time to practice UI frameworks
+
+**Link to work:** [freeCodeCamp Projects](https://fcc-projects-jackie.netlify.app/)
+
